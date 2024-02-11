@@ -355,9 +355,7 @@
     "pinned_footprint_libs": [
       "saturn"
     ],
-    "pinned_symbol_libs": [
-      "saturn"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "saturn.kicad_pro",
